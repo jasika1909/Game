@@ -84,15 +84,17 @@ Dot-Connect-Game
 
 ### Home Screen
 
-*Add a screenshot of the game home screen here.*
+<img width="1352" height="868" alt="image" src="https://github.com/user-attachments/assets/c85045bb-6f1d-45b6-860e-288561c99f1e" />
+
 
 ### Gameplay Screen
 
-*Add a screenshot of the gameplay here.*
+<img width="1055" height="857" alt="image" src="https://github.com/user-attachments/assets/2058e39f-3393-4df1-add5-f90909dd6294" />
 
 ### Winning Screen
 
-*Add a screenshot of the completed puzzle here.*
+<img width="808" height="902" alt="image" src="https://github.com/user-attachments/assets/c68a2e86-5557-4146-9957-3f752accb588" />
+
 
 ---
 
